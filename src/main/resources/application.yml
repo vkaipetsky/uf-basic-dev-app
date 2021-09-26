@@ -1,0 +1,5 @@
+server:
+  port : 8081
+jpmc:
+  basicAuth: # base64 encoded string containing username and password separated by a colon, like so: "username:password"
+  privateKey: # TODO: The private key for singing JWKs with will go here - this feature is not implemented yet!
